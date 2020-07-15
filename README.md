@@ -1,2 +1,2 @@
-# MyCPPProjectOnMingw-w64
+# MyCPPProjectOnMinGW
  My C++ project on Mingw-w64.
